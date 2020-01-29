@@ -1,0 +1,11 @@
+[
+    {
+        "name": "liker_id",
+        "desc": {
+            "zh_TW": "liker ID",
+            "en_US": "liker ID"
+        },
+      	"type": "text",
+        "default": ""
+	}
+]
