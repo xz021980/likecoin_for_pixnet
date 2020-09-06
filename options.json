@@ -1,11 +1,20 @@
 [
-    {
-        "name": "liker_id",
-        "desc": {
-            "zh_TW": "liker ID",
-            "en_US": "liker ID"
-        },
-      	"type": "text",
-        "default": ""
-	}
+  {
+    "name": "likecoin_cta",
+    "desc": {
+      "zh_TW": "鼓勵拍手文字",
+      "en_US": "likecoin_cta"
+    },
+    "type": "text",
+    "default": ""
+  },
+  {
+    "name": "liker_id",
+    "desc": {
+      "zh_TW": "liker ID",
+      "en_US": "liker ID"
+    },
+    "type": "text",
+    "default": ""
+  }
 ]
