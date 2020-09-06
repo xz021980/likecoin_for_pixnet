@@ -5,7 +5,7 @@ execute.js => 讓痞客邦執行 script.js
 options.json => 產生 Liker ID 輸入欄位
 
 script.js => 在每篇文章最下方產生 LikeCoin 拍手區域
-
+<>
 <div class="addon-popup__body__tabset__content ng-binding" ng-bind-html="Addon.data.desc"><p align="left">Wordpress、Medium都有LikeCoin的外掛，只有痞客邦沒有，為了鼓勵創作，特別開發了LikeCoin痞客邦外掛。</p>
 <br>
 <p align="left">使用此外掛前，請先到LikeCoin網站註冊會員，方能取得Liker ID
