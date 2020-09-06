@@ -18,7 +18,7 @@ script.js => 在每篇文章最下方產生 LikeCoin 拍手區域
 <p>&nbsp;</p>
 <p align="left">20200906 更新記錄</p>
 <p align="left">-修正重覆顯示拍手區域問題</p>
-<p align="left">-新增自訂自訂鼓勵拍手文字欄位，會出現在拍手區域正上方</p>
+<p align="left">-新增自訂自訂鼓勵拍手文字欄位(支援HTML語法)，會出現在拍手區域正上方</p>
 <p align="left">-新增類似WordPress短代碼功能，在文章內單獨一行輸入 [likecoin] 會自動轉換為拍手區域，鼓勵拍手文字也會一起顯示</p>
 <p>&nbsp;</p>
 <p align="left">20200506 更新記錄</p>
